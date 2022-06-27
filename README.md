@@ -4,7 +4,7 @@ My name is FIBO PAYA
 Developer
 -----------------------------
 
-*   🖥️  See my portfolio at [thephibonacci.com](https://thephibonacci.com)
+*   🖥️  See my portfolio at [thephibonacci](https://thephibonacci.com)
 *   🚀  I'm currently working on [PHI SPAMMER]
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
