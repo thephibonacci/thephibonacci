@@ -4,8 +4,8 @@ My name is FIBO PAYA
 Developer
 -----------------------------
 
-*   🖥️  See my portfolio at [thephibonacci](https://thephibonacci.com)
-*   🚀  I'm currently working on [PHI SPAMMER]
+*   🖥️  See my portfolio at [thephibonacci](link)
+*   🚀  I'm currently working on [AlertX]
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://www.twitter.com/thephibonacci" target="_blank" rel="noreferrer"><img
