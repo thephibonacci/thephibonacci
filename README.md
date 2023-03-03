@@ -5,7 +5,7 @@ Developer
 -----------------------------
 
 *   🖥️  See my portfolio at [thephibonacci](link)
-*   🚀  I'm currently working on [AlertX]
+*   🚀  I'm currently working on [phpHub]
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://www.twitter.com/thephibonacci" target="_blank" rel="noreferrer"><img
